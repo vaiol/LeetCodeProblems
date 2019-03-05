@@ -1,15 +1,11 @@
 # LeetCodeProblems
 LeetCode problems
 
-# Solved
+# Solved counts
 
-### March
-01.03 - 1,26,27
-
-### Easy
-1,26,27
-
-### Done with help:
-
-### Done by myself but need attention:
-1,26,27
+### March 
+01.03 - 3  
+02.03 - 4  
+03.03 - 7  
+04.03 - 10  
+05.03 - 15  
